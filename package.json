@@ -1,8 +1,14 @@
 {
   "name": "aglaya-tokens-version",
-  "version": "1.0.0",
-  "description": "Placeholder. The real tool ships inside @aglaya/design-tokens.",
-  "bin": { "aglaya-tokens-version": "bin/cli.js" },
+  "version": "1.0.1",
+  "description": "Placeholder holding this npm name. The real checker ships inside @aglaya/design-tokens.",
+  "bin": {
+    "aglaya-tokens-version": "bin/cli.js"
+  },
   "license": "MIT",
-  "repository": { "type": "git", "url": "git+https://github.com/ibaifernandez/aglaya-design-system.git" }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibaifernandez/aglaya-tokens-version.git"
+  },
+  "homepage": "https://github.com/ibaifernandez/aglaya-tokens-version"
 }
